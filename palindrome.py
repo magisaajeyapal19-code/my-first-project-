@@ -5,4 +5,4 @@ def palindrome(num):
     else:
         print("it is not a palindrome")
 num=input("Enter a number: ")
-palindrome(num)78
+palindrome(num)
