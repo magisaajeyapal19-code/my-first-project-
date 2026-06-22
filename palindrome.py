@@ -1,5 +1,4 @@
 def palindrome(num):
-    str_num = str(num)
     if str_num == str_num[::-1]:
         print("it is a palindrome")
     else:
